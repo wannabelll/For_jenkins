@@ -4,7 +4,7 @@ pipeline {
     stages {
         
       
-        stage('???????????????????????????????') {   // Another new stage named 'Test'
+        stage('LOOOOOOOOOOOOOOO') {   // Another new stage named 'Test'
             steps {
                 echo 'Runnsts'
                 // Add your test steps here
