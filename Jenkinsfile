@@ -4,7 +4,7 @@ pipeline {
     stages {
         
       
-        stage('Test') {   // Another new stage named 'Test'
+        stage('Nit test') {   // Another new stage named 'Test'
             steps {
                 echo 'Running Tests'
                 // Add your test steps here
